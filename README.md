@@ -1,6 +1,9 @@
 # cosmos-vietnam-developer-plan
 This is the place I store page development plan and detail stuffs
 
+## what to do
+well, you research on cosmos ecosystem and write posts about it on [Cosmos Vietnam Developer](https://www.facebook.com/profile.php?id=100073329934418)
+
 ## type of posts
 1. hot important news post: (news that can change prices)
     * posts on important news 3 hours late in Vietnamese: 20.000 VND/1 post
