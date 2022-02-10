@@ -1,0 +1,11 @@
+https://twitter.com/cosmos
+https://twitter.com/osmosiszone
+https://twitter.com/OsmoMinistryMkt
+https://twitter.com/terra_money
+https://twitter.com/EvmosOrg
+https://twitter.com/regen_network
+https://twitter.com/sifchain
+https://twitter.com/akashnet_
+https://twitter.com/BandProtocol
+https://twitter.com/JunoNetwork
+https://twitter.com/SecretNetwork
