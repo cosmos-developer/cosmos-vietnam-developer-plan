@@ -17,7 +17,7 @@ well, you research on cosmos ecosystem and write posts about it on [Cosmos Vietn
     * excellent analytic post (gather lots of interest than other posts) in Vietnamese: 200.000 VND/1 post
 
 ## editor: 
-* get 25% reward from each edited post (exclude from post's price). Meaning that for a 50.000 VND post, writer still gets 50.000 VND, editor gets 12.500 VND.
+* get 100% reward from each edited post (exclude from post's price). Meaning that for a 50.000 VND post, writer still gets 50.000 VND, editor gets 50.000 VND.
 ## custom design cost: (applied to analytic post)
 1. design product: 50.000 VND/1 design
 
