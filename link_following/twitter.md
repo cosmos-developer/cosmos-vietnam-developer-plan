@@ -9,3 +9,8 @@
 1. https://twitter.com/BandProtocol
 1. https://twitter.com/JunoNetwork
 1. https://twitter.com/SecretNetwork
+1. https://twitter.com/Wyndverse
+1. https://twitter.com/DA0_DA0
+1. https://twitter.com/passage3d
+1. https://twitter.com/Cosmverse
+1. https://twitter.com/MarbleDAOCosmos
