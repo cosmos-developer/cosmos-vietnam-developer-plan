@@ -14,3 +14,4 @@
 1. https://twitter.com/passage3d
 1. https://twitter.com/Cosmverse
 1. https://twitter.com/MarbleDAOCosmos
+1. https://twitter.com/NetaMoney
