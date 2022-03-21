@@ -27,4 +27,7 @@ well, you research on cosmos ecosystem and write posts about it on [Cosmos Vietn
 	* 1 twitter link of a chain: 1.000 VND
 
 ## rules:
-1. 3 posts/day in total so that page doesn't flood with information
+1. maximum 3 posts/day in total so that page doesn't flood with information
+
+## NOTICE:
+1. Reward plan above does not apply to Notional Labs employees
