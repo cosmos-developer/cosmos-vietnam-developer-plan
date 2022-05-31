@@ -4,12 +4,13 @@
 1. target: train __programmers__ on Cosmos SDK
     * In order to save time and maximize teaching effort, only __programmers__ is considered for this plan.
 2. requirements:
-    * MUST: Programming mindset
-    * MUST: Basic knowledge in linux commands
+    * MUST: Programming mindset: prior experience in progamming is required no matter what language.
+    * MUST: Basic knowledge in linux commands: can understand these [linux commands](https://www.guru99.com/linux-commands-cheat-sheet.html)
     * SHOULD: Cosmos - SDK:
-        * Basic knowledge in Go
+        * Basic knowledge in Go: https://www.codecademy.com/learn/learn-go
+        * Basic knowledge in Protobuf: can understand [protobuf-sample](protobuf-sample.proto)
     * SHOULD: CosmWasm:
-        * Basic knowledge in Rust
+        * Basic knowledge in Rust: https://www.educative.io/courses/learn-rust-from-scratch
 
 # Plan
 1. Basic: Chain CLI interaction
