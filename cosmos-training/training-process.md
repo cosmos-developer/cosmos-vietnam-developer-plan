@@ -27,3 +27,4 @@
 2. Debugging: help resolve and debug problems of peer student
 3. Funding: donate money to program
 4. Propagating: propagate program to the community
+5. Managing: manage student and ensure everyone follow learning goals
