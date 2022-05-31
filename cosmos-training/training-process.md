@@ -20,7 +20,7 @@
     * Writing an NFT contract
     * Writing a front - end to interact with NFT contract
 4. Hands - on project at: (__OPEN TO ALL COOPERATION__)
-    * Notional (require registration as internship to Notional - Labs) (1500$/month compensation)
+    * [Notional](https://github.com/notional-labs) (require registration as internship to Notional - Labs) (1500$/month compensation)
 
 # For Cooperation
 1. Teaching: formulate teaching plan details and teach learners
