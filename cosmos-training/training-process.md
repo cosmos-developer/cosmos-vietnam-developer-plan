@@ -1,6 +1,10 @@
 # Traing plan for Cosmonauts (31/05/2022)
 
-# Prerequisite
+Timeline:
+1. 01/06/2022: Announce training program
+1. 01/07/2022: Start training program
+
+# Prerequisite (Must prepare before 01/07/2022)
 1. target: train __programmers__ on Cosmos SDK
     * In order to save time and maximize teaching effort, only __programmers__ is considered for this plan.
 2. requirements:
